@@ -1,0 +1,5 @@
+Udacity python class
+  创建类需要有__init__方法
+  最好和java中的Service一样，模块化，便于引用
+  import filename
+    instance = filename.ClassName()
